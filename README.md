@@ -18,56 +18,52 @@
 
 ## 🚀 Skills & Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <!-- Add more badges for frameworks, tools, or languages you use -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+### 💡 What I Do
+
+- 🧠 Machine learning for security and analytics (detection, pattern mining, anomaly scoring)
+- 💻 End-to-end web applications (React frontend, FastAPI/Node/Python backend)
+- 🚦 System & process monitoring (real-time, dashboards, REST APIs)
+- 🛠️ Data engineering, analysis, automation
+- 🧪 Testing, automation, reliable CI (GitHub Actions)
 
 ---
 
-## 📊 GitHub Stats
+## 🏗️ Tools, Practices & Extras
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SpoorthyS1&show_icons=true&theme=radical" alt="SpoorthyS1's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpoorthyS1&theme=radical" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpoorthyS1&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+- **Database:** SQLite, relational, NoSQL basics
+- **Infra:** Docker basics, Linux scripting, CLI tools, GitHub Actions
+- **Other:** Code reviews, documentation, collaboration, rapid prototyping
+
+<!-- You can reorder, add, or adjust this list as you like! -->
 
 ---
 
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/SpoorthyS1"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:spoorthy.s80@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/spoorthy-s-b1550032b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <!-- Add more social/profile links as needed -->
 </p>
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥇 Awesome Project 1 (link or description)
-- 🏅 Certification 1 (issuer or description)
-- 🚀 Milestone 1
-
-<!-- Add more achievements, awards, recognitions, or certifications -->
-
----
-
-## 🌟 Featured Projects
-
-- [Project 1](https://github.com/SpoorthyS1/Project1): Short project description
-- [Project 2](https://github.com/SpoorthyS1/Project2): Short project description
-- [Project 3](https://github.com/SpoorthyS1/Project3): Short project description
-
-<!-- Add more featured/pinned repositories with short descriptions -->
 
 ---
 
